@@ -39,7 +39,6 @@
     "@types/minimist": "1.2.0",
     "@types/node": "11.11.6",
     "chalk": "2.4.2",
-    "core-js": "3.4.7",
     "cross-env": "5.2.0",
     "jsome": "2.5.0",
     "minimist": "1.2.0",
